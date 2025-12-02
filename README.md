@@ -1,0 +1,1 @@
+# Fuzzy_Based_GI_Image_Classification
